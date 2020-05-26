@@ -1,0 +1,158 @@
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\JournalForSchool.exe.config
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\JournalForSchool.exe
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\JournalForSchool.pdb
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\BouncyCastle.Crypto.dll
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\EntityFramework.dll
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\EntityFramework.SqlServer.dll
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\Google.Protobuf.dll
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\K4os.Compression.LZ4.dll
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\K4os.Compression.LZ4.Streams.dll
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\K4os.Hash.xxHash.dll
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\MySql.Data.dll
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\Renci.SshNet.dll
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\System.Buffers.dll
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\System.Memory.dll
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\Ubiety.Dns.Core.dll
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\Zstandard.Net.dll
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\EntityFramework.xml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\EntityFramework.SqlServer.xml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\Google.Protobuf.xml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\K4os.Compression.LZ4.xml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\K4os.Compression.LZ4.Streams.xml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\K4os.Hash.xxHash.xml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\MySql.Data.xml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\Renci.SshNet.xml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\System.Buffers.xml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\System.Memory.xml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\System.Numerics.Vectors.xml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\JournalForSchool.csprojAssemblyReference.cache
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\JournalForSchool.exe.config
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\Resources\lang.be-BY.baml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\Resources\lang.ru-RU.baml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\AdminPageFolder\AdminAddClassWindow.g.cs
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\AdminPageFolder\AdminAddUserPage.g.cs
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\AdminPageFolder\AdminDeleteClassWindow.g.cs
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\AdminPageFolder\AdminDeleteUserPage.g.cs
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\AdminPageFolder\AdminPage.g.cs
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\AdminPageFolder\AdminTimetableEditing.g.cs
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\Components\TeacherEditPage.g.cs
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\Components\UserEditPage.g.cs
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\Login\PasswordRecoveryWindow.g.cs
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\Login\LoginPage.g.cs
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\Login\RegistrationPage.g.cs
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\MainWindow.g.cs
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\Components\TeacherPage.g.cs
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\Components\TheClassPage.g.cs
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\Components\UserPage.g.cs
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\Components\SubjectMarks.g.cs
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\App.g.cs
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\JournalForSchool_MarkupCompile.cache
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\JournalForSchool_MarkupCompile.lref
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\App.baml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\AdminPageFolder\AdminAddClassWindow.baml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\AdminPageFolder\AdminAddUserPage.baml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\AdminPageFolder\AdminDeleteClassWindow.baml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\AdminPageFolder\AdminDeleteUserPage.baml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\AdminPageFolder\AdminPage.baml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\AdminPageFolder\AdminTimetableEditing.baml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\Components\TeacherEditPage.baml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\Components\UserEditPage.baml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\Login\PasswordRecoveryWindow.baml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\Login\LoginPage.baml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\Login\RegistrationPage.baml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\MainWindow.baml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\Components\TeacherPage.baml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\Components\TheClassPage.baml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\Components\UserPage.baml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\Components\SubjectMarks.baml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\Style.baml
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\JournalForSchool.g.resources
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\JournalForSchool.Properties.Resources.resources
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\JournalForSchool.csproj.GenerateResource.cache
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\JournalForSchool.csproj.CoreCompileInputs.cache
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\JournalForSchool.csproj.CopyComplete
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\JournalForSchool.exe
+D:\.Projects\.Visual Studio Projects\..Курсачи\latest_version\kek\JournalForSchool-4f1a6fc652e7f74b0fd8d3bf4f80554c964e3b73\JournalForSchool\JournalForSchool\obj\x86\Debug\JournalForSchool.pdb
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\JournalForSchool.exe.config
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\JournalForSchool.exe
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\JournalForSchool.pdb
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\BouncyCastle.Crypto.dll
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\EntityFramework.dll
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\EntityFramework.SqlServer.dll
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\Google.Protobuf.dll
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\K4os.Compression.LZ4.dll
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\K4os.Compression.LZ4.Streams.dll
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\K4os.Hash.xxHash.dll
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\MySql.Data.dll
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\Renci.SshNet.dll
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\System.Buffers.dll
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\System.Memory.dll
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\System.Numerics.Vectors.dll
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\Ubiety.Dns.Core.dll
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\Zstandard.Net.dll
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\EntityFramework.xml
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\EntityFramework.SqlServer.xml
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\Google.Protobuf.xml
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\K4os.Compression.LZ4.xml
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\K4os.Compression.LZ4.Streams.xml
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\K4os.Hash.xxHash.xml
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\MySql.Data.xml
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\Renci.SshNet.xml
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\System.Buffers.xml
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\System.Memory.xml
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\System.Numerics.Vectors.xml
+E:\kyrsach\JournalForSchool\JournalForSchool\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\JournalForSchool.csprojAssemblyReference.cache
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\JournalForSchool.exe.config
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\Resources\lang.be-BY.baml
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\Resources\lang.ru-RU.baml
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\AdminPageFolder\AdminAddClassWindow.g.cs
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\AdminPageFolder\AdminAddUserPage.g.cs
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\AdminPageFolder\AdminDeleteClassWindow.g.cs
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\AdminPageFolder\AdminDeleteUserPage.g.cs
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\AdminPageFolder\AdminPage.g.cs
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\AdminPageFolder\AdminTimetableEditing.g.cs
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\Components\TeacherEditPage.g.cs
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\Components\UserEditPage.g.cs
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\Login\PasswordRecoveryWindow.g.cs
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\Login\LoginPage.g.cs
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\Login\RegistrationPage.g.cs
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\MainWindow.g.cs
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\Components\TeacherPage.g.cs
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\Components\TheClassPage.g.cs
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\Components\UserPage.g.cs
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\Components\SubjectMarks.g.cs
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\App.g.cs
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\JournalForSchool_MarkupCompile.cache
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\JournalForSchool_MarkupCompile.lref
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\App.baml
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\AdminPageFolder\AdminAddClassWindow.baml
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\AdminPageFolder\AdminAddUserPage.baml
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\AdminPageFolder\AdminDeleteClassWindow.baml
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\AdminPageFolder\AdminDeleteUserPage.baml
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\AdminPageFolder\AdminPage.baml
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\AdminPageFolder\AdminTimetableEditing.baml
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\Components\TeacherEditPage.baml
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\Components\UserEditPage.baml
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\Login\PasswordRecoveryWindow.baml
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\Login\LoginPage.baml
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\Login\RegistrationPage.baml
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\MainWindow.baml
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\Components\TeacherPage.baml
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\Components\TheClassPage.baml
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\Components\UserPage.baml
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\Components\SubjectMarks.baml
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\Style.baml
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\JournalForSchool.g.resources
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\JournalForSchool.Properties.Resources.resources
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\JournalForSchool.csproj.GenerateResource.cache
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\JournalForSchool.csproj.CoreCompileInputs.cache
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\JournalForSchool.csproj.CopyComplete
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\JournalForSchool.exe
+E:\kyrsach\JournalForSchool\JournalForSchool\obj\x86\Debug\JournalForSchool.pdb
